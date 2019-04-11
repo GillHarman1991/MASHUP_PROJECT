@@ -13,3 +13,25 @@ html,body{
     height:100%;
     float:left;
 }
+.content
+{
+    height:100%;
+}
+#page1{
+    background-color:#4486F4
+}
+#page2{
+    background-color:#FFDD43
+}
+#page3{
+    background-color:#DB4539
+}
+#map-container{
+    background-color:#ABB7B7
+}
+#map_canvas{
+    height:620px;
+    width:90%;
+    margin:0 auto;
+
+}
